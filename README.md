@@ -1,1 +1,1 @@
-scan erc20 contract infomathon
+scan erc20 contract information
